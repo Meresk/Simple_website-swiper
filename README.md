@@ -1,5 +1,3 @@
 # Simple web design with slides and video 
 
-<p align="center">
-    <video src="https://github.com/Meresk/Simple_website-swiper/blob/master/assets/2024-04-09%2001-24-48.mp4">
-</p>
+<iframe width="560" height="315" src="https://youtu.be/Es_obHBp6FM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
